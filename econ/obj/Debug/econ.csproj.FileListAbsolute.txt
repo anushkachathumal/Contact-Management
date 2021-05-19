@@ -1,0 +1,9 @@
+c:\users\chathumal\documents\visual studio 2015\Projects\econ\econ\bin\Debug\econ.exe.config
+c:\users\chathumal\documents\visual studio 2015\Projects\econ\econ\bin\Debug\econ.exe
+c:\users\chathumal\documents\visual studio 2015\Projects\econ\econ\bin\Debug\econ.pdb
+c:\users\chathumal\documents\visual studio 2015\Projects\econ\econ\obj\Debug\econ.csprojResolveAssemblyReference.cache
+c:\users\chathumal\documents\visual studio 2015\Projects\econ\econ\obj\Debug\econ.Form1.resources
+c:\users\chathumal\documents\visual studio 2015\Projects\econ\econ\obj\Debug\econ.Properties.Resources.resources
+c:\users\chathumal\documents\visual studio 2015\Projects\econ\econ\obj\Debug\econ.csproj.GenerateResource.Cache
+c:\users\chathumal\documents\visual studio 2015\Projects\econ\econ\obj\Debug\econ.exe
+c:\users\chathumal\documents\visual studio 2015\Projects\econ\econ\obj\Debug\econ.pdb
